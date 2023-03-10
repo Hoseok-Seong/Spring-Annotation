@@ -1,5 +1,6 @@
 package ex01;
 
+@Controller
 public class UserController {
 
     @RequestMapping(uri = "/login")
